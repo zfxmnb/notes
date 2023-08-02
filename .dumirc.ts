@@ -2,7 +2,7 @@ import { defineConfig } from 'dumi';
 
 export default defineConfig({
   outputPath: 'docs-dist',
-  base: '/notes',
+  base: '/notes/',
   publicPath: '/notes/',
   themeConfig: {
     name: 'Notes',
